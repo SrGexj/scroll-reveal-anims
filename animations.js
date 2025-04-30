@@ -76,10 +76,6 @@ const animateChildElements = () => {
     })
 }
 
-animateChildElements()
-
-animateSingleElements()
-
    
 
 
